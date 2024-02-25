@@ -18,7 +18,7 @@ public class Book {
         this.price = price;
     }
 
-    // Getter and Setter methods
+    // Getters and setters
     public Long getId() {
         return id;
     }
