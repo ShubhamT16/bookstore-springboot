@@ -1,4 +1,4 @@
-package com.bookstore.model;
+package com.bookstore.bookstoremanagement;
 
 public class Book {
     private Long id;

@@ -1,7 +1,5 @@
-package com.bookstore.controller;
+package com.bookstore.bookstoremanagement;
 
-import com.bookstore.model.Book;
-import com.bookstore.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
